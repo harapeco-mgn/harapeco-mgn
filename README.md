@@ -45,7 +45,7 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-- 🌐 App: https://kehare-cho.onrender.com
+- 🌐 App: https://kehare-cho.com
 - 💻 Repo: https://github.com/harapeco-mgn/Kehare-Cho
 
 ---
